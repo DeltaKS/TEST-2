@@ -1,2 +1,7 @@
-# TEST-2
-:I:I:I:I:II:I:I::I:II::II:II:I:I:I:I:III:II:I:I:I:I::II:II:I::I:II:I:I:I:I:I::II::I:I:I:II:I:II:I:I:II:I:II::III:I::III:I:I
+#Test-2
+_____________
+|o         o |  
+| --------   |
+    __|__  
+      |
+     / \ 
